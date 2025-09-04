@@ -11,7 +11,7 @@ tinggi = 168.7
 statusMenikah = True
 
 # Aritmatika
-a = 1
+a = 1.5
 b = 2.5
 c = a + b
 
