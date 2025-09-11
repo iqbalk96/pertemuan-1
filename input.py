@@ -10,4 +10,4 @@ print(f"Tinggi: {tinggi}")
 if umur >= 18:
     print("Anda sudah dewasa")
 else:
-    print("Anda belum dewasa")
+    print("Anda belum dewasa ko")
