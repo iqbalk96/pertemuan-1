@@ -22,6 +22,6 @@ print(hasilDesimalPenjumlahan)
 def stringWithParam(f="Selamat malam dari default"):
     return f
 
-hasilString = stringWithParam("Selamat malam dari parameter")
+hasilString = stringWithParam("Selamat sore dari parameter")
 print(hasilString)
 
